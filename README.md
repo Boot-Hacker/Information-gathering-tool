@@ -1,5 +1,5 @@
 # Information-gathering-tool
-This is a basic information gathering tool using python3.9. 
+This is a basic information gathering t.ool using python3.9. 
 We can use this tool to caputer possible information about corrosponding IP ,Domain ,website. 
 
 DETAILS OF USES LIBARIES : 
@@ -29,6 +29,9 @@ Steps To Follow **
 ---------------------------------------------------------------------
 -> Get help for arguments to exxecute command. 
       command : python3 info_gathering.py -h
-![image](https://user-images.githubusercontent.com/87462515/175126786-5671c274-7784-410a-bfb6-5591b85a900e.png)
- -> 
+      ![Screenshot (138)](https://user-images.githubusercontent.com/87462515/175241974-8557fe36-3b28-4095-9a52-58bbd8167d2b.png)
+  
 
+-> Get details of 'google.com' through 192.168.228.1
+   command : python3 info_gathering.py -d google.com -s 192.168.228.1
+   ![Screenshot (140)](https://user-images.githubusercontent.com/87462515/175242423-d8976526-0c54-4bb3-ad7c-a8a42292a474.png)
