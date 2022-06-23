@@ -31,11 +31,11 @@ Steps To Follow **
 
       command : python3 info_gathering.py -h
       
-      ![Screenshot (138)](https://user-images.githubusercontent.com/87462515/175241974-8557fe36-3b28-4095-9a52-58bbd8167d2b.png)
+   ![Screenshot (138)](https://user-images.githubusercontent.com/87462515/175241974-8557fe36-3b28-4095-9a52-58bbd8167d2b.png)
   
 
 -> Get details of 'google.com' through 192.168.228.1
 
-   command : python3 info_gathering.py -d google.com -s 192.168.228.1
+    command : python3 info_gathering.py -d google.com -s 192.168.228.1
    
    ![Screenshot (140)](https://user-images.githubusercontent.com/87462515/175242423-d8976526-0c54-4bb3-ad7c-a8a42292a474.png)
