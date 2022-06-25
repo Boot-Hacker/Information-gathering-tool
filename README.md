@@ -1,4 +1,4 @@
-# Information-gathering-tool
+# Information Gathering Tool
 This is a basic information gathering tool using python-3.9. 
 We can use this tool to caputer possible information about corrosponding IP ,Domain ,website. 
 
