@@ -1,5 +1,5 @@
 # Information-gathering-tool
-This is a basic information gathering t.ool using python3.9. 
+This is a basic information gathering tool using python-3.9. 
 We can use this tool to caputer possible information about corrosponding IP ,Domain ,website. 
 
 DETAILS OF USES LIBARIES : 
@@ -18,10 +18,15 @@ DETAILS OF USES LIBARIES :
   **
 Steps To Follow **
 ---------------------------------------------------------------------
+
 -> Install all necessary libary file into your system. [like shodan,Whois]
+
 -> Download info_gathering.py
+
 -> chmod +x info_gathering.py{Linux}
+
 -> Go to the path where download ".py" file.
+
 -> command : "python3 info_gathering.py -h"
 
 
